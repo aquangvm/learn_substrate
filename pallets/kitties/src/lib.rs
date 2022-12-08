@@ -34,12 +34,15 @@ pub mod pallet {
 		pub price: u64,
 		pub gender: Gender,
 		pub owner: T::AccountId,
+		created_date: TimeOf<T>
 	}
 	#[derive(Clone, Encode, Decode, PartialEq, Copy, RuntimeDebug, TypeInfo, MaxEncodedLen)]
 	pub enum Gender {
 		Male,
 		Female,
 	}
+
+	type TimeOf<T> = <<T as Config>::Time as Time>::Moment;
 
 	#[pallet::pallet]
 	#[pallet::generate_store(pub(super) trait Store)]
@@ -51,6 +54,11 @@ pub mod pallet {
 	pub trait Config: frame_system::Config {
 		/// Because this pallet emits events, it depends on the runtime's definition of an event.
 		type RuntimeEvent: From<Event<Self>> + IsType<<Self as frame_system::Config>::RuntimeEvent>;
+		type KittyDnaRandom: Randomness<Self::Hash, Self::BlockNumber>;
+		type Time: Time;
+
+		#[pallet::constant]
+        type MaxOwned: Get<u32>;
 	}
 
 
@@ -65,7 +73,7 @@ pub mod pallet {
 
 	#[pallet::storage]
 	#[pallet::getter(fn kitty_owned)]
-	pub(super) type KittiesOwned<T: Config> = StorageMap<_, Blake2_128Concat, T::AccountId, Vec<Vec<u8>>, ValueQuery>;
+	pub(super) type KittiesOwned<T: Config> = StorageMap<_, Blake2_128Concat, T::AccountId, BoundedVec<T::Hash, T::MaxOwned>, ValueQuery>;
 
 	// Pallets use events to inform users when important changes are made.
 	// https://docs.substrate.io/main-docs/build/events-errors/
@@ -99,8 +107,11 @@ pub mod pallet {
 			// Make sure the caller is from a signed origin
 			let owner = ensure_signed(origin)?;
 
-			let gender = Self::gen_gender(&dna)?;
-			let kitty = Kitty::<T> { dna: dna.clone(), price: 0, gender, owner: owner.clone() };
+			let dna =  gen_dna();
+
+			let gender = Self::gen_gender(&dna.clone())?;
+			let created_date = T::Time::now();
+			let kitty = Kitty::<T> { dna: dna.clone(), price: 0, gender, owner: owner.clone(), created_date: created_date.clone() };
 
 			// Check if the kitty does not already exist in our storage map
 			ensure!(!Kitties::<T>::contains_key(&kitty.dna), Error::<T>::DuplicateKitty);
@@ -167,6 +178,13 @@ impl<T> Pallet<T> {
 			res = Gender::Male;
 		}
 		Ok(res)
+	}
+}
+
+impl<T: Config> Pallet<T>{
+	fn gen_dna() -> (T::Hash) {
+		let mut random = T::KittyDnaRandom::random(&b"dna"[..]).0;
+		return (random)
 	}
 }
 
