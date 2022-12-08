@@ -1,0 +1,13 @@
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\settings.rs
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\types.rs
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\opcodes.rs
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\clif.isle
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\inst_builder.rs
+Writing generated file: d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\settings-x86.rs
+Rebuilding d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_x64.rs
+Writing ISLE-generated Rust code to d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_x64.rs
+Rebuilding d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_aarch64.rs
+Writing ISLE-generated Rust code to d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_aarch64.rs
+Rebuilding d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_s390x.rs
+Writing ISLE-generated Rust code to d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\cranelift-codegen-7b161ee207ac3e46\out\isle_s390x.rs
+fatal: not a git repository (or any of the parent directories): .git

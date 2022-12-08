@@ -1,0 +1,12 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\prost-eddbb39f4e5994cb.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\error.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\message.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\types.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\encoding.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\../README.md
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\libprost-eddbb39f4e5994cb.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\error.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\message.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\types.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\encoding.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\../README.md
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\prost-eddbb39f4e5994cb.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\error.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\message.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\types.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\encoding.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\../README.md
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\error.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\message.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\types.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\encoding.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-0.11.0\src\../README.md:

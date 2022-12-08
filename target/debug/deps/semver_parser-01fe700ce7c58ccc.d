@@ -1,0 +1,11 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\semver_parser-01fe700ce7c58ccc.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\libsemver_parser-01fe700ce7c58ccc.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\semver_parser-01fe700ce7c58ccc.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs:

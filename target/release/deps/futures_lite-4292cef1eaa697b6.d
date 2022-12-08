@@ -1,0 +1,11 @@
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\futures_lite-4292cef1eaa697b6.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\future.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\prelude.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\stream.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\io.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\libfutures_lite-4292cef1eaa697b6.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\future.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\prelude.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\stream.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\io.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\futures_lite-4292cef1eaa697b6.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\future.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\prelude.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\stream.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\io.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\future.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\prelude.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\stream.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.12.0\src\io.rs:

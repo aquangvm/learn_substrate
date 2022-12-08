@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-82e1d0be857
+cargo:rerun-if-changed=d:\work\substrate-vbi-4\.git\HEAD
+cargo:rerun-if-changed=d:\work\substrate-vbi-4\.git\refs/heads/main
+

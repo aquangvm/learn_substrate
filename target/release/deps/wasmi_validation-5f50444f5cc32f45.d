@@ -1,0 +1,11 @@
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\wasmi_validation-5f50444f5cc32f45.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\stack.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\context.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\func.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\util.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\libwasmi_validation-5f50444f5cc32f45.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\stack.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\context.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\func.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\util.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\wasmi_validation-5f50444f5cc32f45.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\stack.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\context.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\func.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\util.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\stack.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\context.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\func.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmi-validation-0.5.0\src\util.rs:

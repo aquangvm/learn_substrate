@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\work\substrate-vbi-4\substrate-node-template\target\release\build\typenum-8f495c877c772b83\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\work\substrate-vbi-4\substrate-node-template\target\release\build\typenum-8f495c877c772b83\out\op.rs

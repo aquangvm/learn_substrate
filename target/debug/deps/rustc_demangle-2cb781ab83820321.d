@@ -1,0 +1,7 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\rustc_demangle-2cb781ab83820321.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\legacy.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\v0.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\rustc_demangle-2cb781ab83820321.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\legacy.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\v0.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\legacy.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.21\src\v0.rs:

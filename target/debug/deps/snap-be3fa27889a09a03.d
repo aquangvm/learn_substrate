@@ -1,0 +1,20 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\snap-be3fa27889a09a03.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\bytes.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\compress.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32_table.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\decompress.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\error.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\frame.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\raw.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\read.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\tag.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\write.rs d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/crc32_table.rs d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/tag.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\snap-be3fa27889a09a03.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\bytes.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\compress.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32_table.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\decompress.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\error.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\frame.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\raw.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\read.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\tag.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\write.rs d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/crc32_table.rs d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/tag.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\bytes.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\compress.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\crc32_table.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\decompress.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\error.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\frame.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\raw.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\read.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\tag.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\snap-1.0.5\src\write.rs:
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/crc32_table.rs:
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\build\snap-c50ef58aaab0dc22\out/tag.rs:
+
+# env-dep:OUT_DIR=d:\\work\\substrate-vbi-4\\substrate-node-template\\target\\debug\\build\\snap-c50ef58aaab0dc22\\out

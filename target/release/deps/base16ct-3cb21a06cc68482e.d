@@ -1,0 +1,12 @@
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\base16ct-3cb21a06cc68482e.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\libbase16ct-3cb21a06cc68482e.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+D:\work\substrate-vbi-4\substrate-node-template\target\release\deps\base16ct-3cb21a06cc68482e.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\lower.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\mixed.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\upper.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\display.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\base16ct-0.1.1\src\error.rs:

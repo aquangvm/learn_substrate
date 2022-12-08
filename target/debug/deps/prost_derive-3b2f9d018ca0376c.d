@@ -1,0 +1,11 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\prost_derive-3b2f9d018ca0376c.dll: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\mod.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\group.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\map.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\message.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\oneof.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\scalar.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\prost_derive-3b2f9d018ca0376c.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\mod.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\group.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\map.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\message.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\oneof.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\scalar.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\mod.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\group.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\map.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\message.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\oneof.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.10.1\src\field\scalar.rs:

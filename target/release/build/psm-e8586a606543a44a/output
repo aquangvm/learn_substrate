@@ -1,0 +1,26 @@
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+cargo:rustc-cfg=asm
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\ml64.exe" "-nologo" "-FoD:\\work\\substrate-vbi-4\\substrate-node-template\\target\\release\\build\\psm-e8586a606543a44a\\out\\src/arch/x86_64_msvc.o" "-c" "src/arch/x86_64_msvc.asm"
+ Assembling: src/arch/x86_64_msvc.asm
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\lib.exe" "-out:D:\\work\\substrate-vbi-4\\substrate-node-template\\target\\release\\build\\psm-e8586a606543a44a\\out\\libpsm_s.a" "-nologo" "D:\\work\\substrate-vbi-4\\substrate-node-template\\target\\release\\build\\psm-e8586a606543a44a\\out\\src/arch/x86_64_msvc.o"
+exit code: 0
+cargo:rustc-link-lib=static=psm_s
+cargo:rustc-link-search=native=D:\work\substrate-vbi-4\substrate-node-template\target\release\build\psm-e8586a606543a44a\out

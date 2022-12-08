@@ -1,0 +1,12 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\io_lifetimes-dd9975f1ef738f6b.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\portability.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\traits.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\types.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std_views.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\raw.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\views.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\io_lifetimes-dd9975f1ef738f6b.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\portability.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\traits.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\types.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std_views.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\raw.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\views.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\portability.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\traits.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\types.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\impls_std_views.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\raw.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\io-lifetimes-0.7.3\src\views.rs:

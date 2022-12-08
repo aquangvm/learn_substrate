@@ -1,0 +1,11 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\cargo_metadata-b1b0a455f6523916.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\libcargo_metadata-b1b0a455f6523916.rlib: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\cargo_metadata-b1b0a455f6523916.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\lib.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\dependency.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\diagnostic.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\errors.rs:
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.14.2\src\messages.rs:

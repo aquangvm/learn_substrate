@@ -1,0 +1,5 @@
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\futures_sink-7aec8a5a948745b4.rmeta: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-sink-0.3.24\src\lib.rs
+
+d:\work\substrate-vbi-4\substrate-node-template\target\debug\deps\futures_sink-7aec8a5a948745b4.d: C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-sink-0.3.24\src\lib.rs
+
+C:\Users\ADMIN\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-sink-0.3.24\src\lib.rs:
