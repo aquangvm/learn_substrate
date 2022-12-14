@@ -287,9 +287,11 @@ impl pallet_loosely_coupling::Config for Runtime {
 
 impl pallet_kitties::Config for Runtime {
 	type RuntimeEvent = RuntimeEvent;
+	type Time = Timestamp;
+	type MaxKittiesOwned = MaxKittyOwned;
+	type KittyDnaRandom = RandomnessCollectiveFlip;
+	type Currency = Balances;
 }
-
-
 
 // Create the runtime by composing the FRAME pallets that were previously configured.
 construct_runtime!(
